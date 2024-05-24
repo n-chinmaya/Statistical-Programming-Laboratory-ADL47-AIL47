@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/Statistical-Programming-Laboratory-ADL47-AIL47/GradePerformance"
+    "path": "~/Statistical-Programming-Laboratory-ADL47-AIL47"
 }
