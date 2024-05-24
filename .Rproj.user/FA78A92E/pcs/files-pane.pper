@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
-    "path": "~/Statistical-Programming-Laboratory-ADL47-AIL47/GroceryStore"
+    "path": "~/Statistical-Programming-Laboratory-ADL47-AIL47"
 }
